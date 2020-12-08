@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="74px" height="74px" viewBox="0 0 74 74" version="1.1" xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>ic-play</title>
+    <desc>Created with Sketch.</desc>
+    <g id="ic-play" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(3.000000, 3.000000)">
+            <circle id="Oval" stroke="#FFFFFF" stroke-width="3" cx="34" cy="34" r="34"></circle>
+            <g transform="translate(24.000000, 23.000000)" fill="#FFFFFF" id="-">
+                <path d="M12.5245565,2.87414736 L22.2583661,19.0971634 C22.5425143,19.5707437 22.3889492,20.1850039 21.9153689,20.4691521 C21.7599535,20.5624013 21.5821171,20.6116591 21.4008732,20.6116591 L1.93325395,20.6116591 C1.3809692,20.6116591 0.933253952,20.1639439 0.933253952,19.6116591 C0.933253952,19.4304152 0.982511785,19.2525788 1.07576103,19.0971634 L10.8095706,2.87414736 C11.0937188,2.40056709 11.7079791,2.24700203 12.1815593,2.53115018 C12.3223089,2.61559995 12.4401067,2.73339775 12.5245565,2.87414736 Z"
+                      transform="translate(11.667139, 11.500076) rotate(-270.000000) translate(-11.667139, -11.500076) "></path>
+            </g>
+        </g>
+    </g>
+</svg>
